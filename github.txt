@@ -1,0 +1,20 @@
+git init
+
+git add .
+
+git commit -m "Msg"
+
+git remote add origin 'your_url_name'
+
+
+git push -u origin master
+
+
+
+git status
+
+
+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
+
+
+
